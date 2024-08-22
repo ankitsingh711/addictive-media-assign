@@ -1,22 +1,45 @@
-import express from 'express';
-import dotenv from 'dotenv';
-import cors from 'cors';
-dotenv.config();
+import express, { Request, Response } from "express";
+import cors from "cors";
+import dotenv from "dotenv";
+import bodyParser = require("body-parser");
+import logger from "./logger";
+import connectDB from "./config/db";
+import cookieParser = require("cookie-parser");
 
-const PORT = process.env.PORT;
+dotenv.config();
 
 const app = express();
 
-app.use(cors({ origin: '*'}));
+const PORT = process.env.PORT || 3001;
 
-app.get('/', (req, res) => {
-    res.send('Addictive Media Assignment By Ankit Singh !');
+app.use(bodyParser.json({ limit: "10mb" }));
+app.use(
+  bodyParser.urlencoded({
+    limit: "10mb",
+    extended: true,
+  })
+);
+
+app.use(
+  cors({
+    origin:"*",
+  })
+);
+app.use(cookieParser());
+
+// Basic Route
+app.get("/", (req: Request, res: Response) => {
+  res.send('Addictive Media - Ankit Singh');
 });
 
-app.listen(PORT, ()=>{
-    console.log(`Server is running on PORT ${PORT}`)
+
+// Start the server :
+
+app.listen(PORT, async () => {
+  try {
+    await connectDB();
+    logger.info(`Connected to the DB ! and Server is running on PORT ${PORT}`);
+  } catch (error) {
+    console.error(error);
+  }
 });
-
-
-
-
