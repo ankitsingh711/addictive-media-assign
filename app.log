@@ -1,54 +1,278 @@
-2024-08-22T07:44:00.446Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:45:16.099Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:45:45.602Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:45:51.792Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:50:01.300Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:50:18.185Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:50:29.750Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:50:33.566Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:50:41.753Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:50:57.831Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:02.120Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:15.392Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:20.264Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:26.099Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:30.157Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:32.508Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:37.719Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:44.351Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:46.228Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:51:48.661Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:52:01.983Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:52:05.543Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:52:19.365Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:52:56.431Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:52:59.879Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:02.882Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:04.506Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:08.764Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:13.475Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:21.953Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:29.592Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:33.644Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:41.071Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:53:52.632Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:54:02.783Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:54:06.666Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:54:09.350Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:54:23.436Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:55:11.390Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:55:15.441Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:57:37.468Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:57:43.566Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:57:54.045Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:57:58.648Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:58:17.732Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:58:20.508Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:58:25.445Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:58:30.091Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:58:50.349Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:58:56.195Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:59:01.125Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:59:18.532Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:59:26.387Z [info]: Connected to the DB ! and Server is running on PORT 4000
-2024-08-22T07:59:40.959Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-22T08:20:52.251Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T06:43:30.135Z [error]: User Registration Error: Error: data and salt arguments required
+2024-08-23T06:44:55.496Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T06:49:45.263Z [error]: User Registration Error: Error: data and salt arguments required
+2024-08-23T06:50:30.448Z [error]: User Registration Error: Error: data and salt arguments required
+2024-08-23T06:51:08.023Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T06:51:11.233Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T06:51:14.224Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T06:51:16.093Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T06:51:18.269Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T06:51:21.052Z [error]: data and salt arguments required
+2024-08-23T06:51:21.053Z [info]: User Registered Successfully - test1@mail.com
+2024-08-23T07:01:23.576Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:01:27.072Z [error]: data and salt arguments required
+2024-08-23T07:01:27.072Z [info]: User Registered Successfully - test1@mail.com
+2024-08-23T07:10:13.558Z [info]: User Registered Successfully - test1@mail.com
+2024-08-23T07:12:23.173Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:13:41.460Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:13:44.596Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:19:28.184Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:19:32.792Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:19:37.774Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:19:54.494Z [info]: User Registered Successfully - test2@mail.com
+2024-08-23T07:19:54.494Z [info]: User Registered Successfully - test2@mail.com
+2024-08-23T07:21:49.579Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:22:23.522Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:24:01.651Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:24:07.959Z [info]: User Registered Successfully - test3@mail.com
+2024-08-23T07:24:07.960Z [info]: User Registered Successfully - test3@mail.com
+2024-08-23T07:27:37.199Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:28:00.546Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:28:09.851Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:31:11.423Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:38:47.091Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:38:50.993Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:39:13.280Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:39:21.639Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:39:27.636Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:39:34.514Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:39:42.104Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:39:45.594Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:40:13.276Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:41:47.514Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:41:50.034Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:41:58.074Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:02.435Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:06.359Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:08.917Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:13.111Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:16.009Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:22.111Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:28.274Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:42:33.985Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:43:01.524Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:43:05.157Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:43:18.442Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:43:25.647Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:45:31.350Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:45:48.322Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:45:58.515Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:46:02.220Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:49:30.034Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:50:35.191Z [error]: Cannot read properties of undefined (reading 'slice')
+2024-08-23T07:50:35.191Z [error]: User Registration Error: TypeError: Cannot read properties of undefined (reading 'slice')
+2024-08-23T07:53:37.319Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:54:39.211Z [info]: User Registered Successfully - test4@mail.com
+2024-08-23T07:54:39.223Z [info]: User Registered Successfully - test4@mail.com
+2024-08-23T07:55:44.050Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:56:01.468Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:56:10.788Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:56:24.893Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T07:57:34.018Z [info]: User Registered Successfully - ps4059269@gmail.com
+2024-08-23T07:57:34.029Z [info]: User Registered Successfully - ps4059269@gmail.com
+2024-08-23T08:00:44.666Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:00:53.579Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:00:55.922Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:01:15.064Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:01:26.182Z [info]: User Login Failed: Invalid Credentials - undefined
+2024-08-23T08:01:34.938Z [info]: User Login Failed: Invalid Credentials - undefined
+2024-08-23T08:02:03.449Z [info]: User Login Failed: Invalid Credentials - undefined
+2024-08-23T08:02:07.016Z [info]: User Login Failed: Invalid Credentials - undefined
+2024-08-23T08:02:36.300Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:02:52.065Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:03:03.174Z [info]: User logged in successfully - praksh
+2024-08-23T08:03:14.180Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:03:43.199Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:03:44.188Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:03:46.503Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:03:48.420Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:04:46.266Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:05:07.748Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:05:13.899Z [info]: User logged in successfully - praksh
+2024-08-23T08:05:33.823Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:05:36.309Z [info]: User logged in successfully - praksh
+2024-08-23T08:05:40.380Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:06:06.938Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:06:07.903Z [info]: User registration failed: User already exists - ps4059269@gmail.com
+2024-08-23T08:06:07.904Z [info]: User Registered Successfully - ps4059269@gmail.com
+2024-08-23T08:06:21.615Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:06:33.569Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:06:36.141Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:06:37.725Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:08:32.259Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:08:41.175Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:08:44.631Z [info]: User logged in successfully - praksh
+2024-08-23T08:08:50.456Z [info]: User Login Failed: Invalid Credentials - prakash
+2024-08-23T08:08:54.890Z [info]: User logged in successfully - praksh
+2024-08-23T08:08:59.099Z [info]: User Login Failed: Invalid Credentials - praksh
+2024-08-23T08:09:03.983Z [info]: User logged in successfully - praksh
+2024-08-23T08:12:15.493Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:12:26.826Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:12:34.782Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:14:05.722Z [info]: User Login Failed: Invalid Credentials - praks
+2024-08-23T08:14:10.623Z [info]: User logged in successfully - praksh
+2024-08-23T08:14:54.750Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:16:26.625Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:16:42.494Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:19:19.303Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:19:35.904Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:19:42.986Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:19:57.947Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:20:08.301Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:20:57.202Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:21:00.901Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:21:17.851Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:21:23.904Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:21:30.263Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:21:57.551Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:22:07.785Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:22:16.103Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:22:18.821Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:22:24.772Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:22:26.585Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:22:33.821Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:22:47.424Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:23:15.331Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:31:08.765Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:34:24.851Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:34:29.975Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:34:34.092Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:34:57.424Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:34:59.766Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:05.460Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:08.221Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:14.856Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:25.883Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:30.073Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:32.162Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:36.236Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:41.248Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:35:57.901Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:05.144Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:09.312Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:15.868Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:18.580Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:24.221Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:30.256Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:35.528Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:47.643Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:52.821Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:36:57.729Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:00.646Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:13.249Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:18.928Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:23.012Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:26.468Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:31.093Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:34.895Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:37.063Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:41.624Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:37:54.676Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:39:39.801Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:39:50.209Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:39:55.438Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:40:04.100Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:40:08.174Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:40:16.615Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:40:22.448Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:40:29.252Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:40:49.595Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:03.480Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:09.738Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:15.087Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:23.369Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:33.276Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:36.941Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:40.701Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:48.338Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:54.052Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:41:57.370Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:42:07.935Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:42:33.881Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:42:39.533Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:42:50.682Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:42:54.026Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:43:03.185Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:43:28.707Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:43:32.256Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:43:37.462Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:43:51.553Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:43:56.860Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:43:59.485Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:11.601Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:14.647Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:20.253Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:27.374Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:33.836Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:39.019Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:43.054Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:44:48.807Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T08:46:51.051Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:08:49.000Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:08:52.639Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:09:15.840Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:09:18.688Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:09:23.364Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:11:12.395Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:11:15.756Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:11:29.478Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:11:45.000Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:12:45.171Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:12:49.558Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:12:53.719Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:15:56.417Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:16:31.074Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:16:36.595Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:16:40.842Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:16:44.695Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:16:57.234Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:16:59.357Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:17:07.672Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:17:22.962Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:17:26.707Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:17:29.345Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:17:34.119Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:23:51.406Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:23:54.756Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:24:01.880Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:24:06.840Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:24:30.409Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:25:06.033Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:25:19.135Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:27:50.458Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T09:27:55.119Z [info]: User logged in successfully - praksh
+2024-08-23T11:04:41.438Z [info]: User logged in successfully - praksh
+2024-08-23T11:05:12.515Z [info]: User logged in successfully - praksh
+2024-08-23T11:07:49.957Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:08:36.088Z [error]: Invalid Token: invalid token
+2024-08-23T11:08:42.564Z [info]: User logged in successfully - praksh
+2024-08-23T11:08:56.008Z [error]: Invalid Token: invalid signature
+2024-08-23T11:10:39.877Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:12:41.332Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:12:49.355Z [error]: Invalid Token: invalid signature
+2024-08-23T11:12:58.679Z [info]: User logged in successfully - praksh
+2024-08-23T11:13:10.354Z [error]: Invalid Token: invalid signature
+2024-08-23T11:13:14.376Z [error]: Invalid Token: invalid signature
+2024-08-23T11:15:57.572Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:16:20.431Z [error]: Invalid Token: invalid signature
+2024-08-23T11:16:26.766Z [info]: User logged in successfully - praksh
+2024-08-23T11:16:43.374Z [info]: Token verified successfully
+2024-08-23T11:17:43.396Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:17:45.576Z [info]: Token verified successfully
+2024-08-23T11:17:45.576Z [info]: undefined
+2024-08-23T11:18:18.818Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:18:21.979Z [info]: Token verified successfully
+2024-08-23T11:18:21.979Z [info]: [object Object]
+2024-08-23T11:19:07.797Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:19:23.124Z [info]: Token verified successfully
+2024-08-23T11:20:09.250Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:20:12.788Z [info]: Token verified successfully
+2024-08-23T11:21:52.245Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:21:57.470Z [info]: User logged in successfully - praksh
+2024-08-23T11:21:59.578Z [info]: Token verified successfully
+2024-08-23T11:22:36.164Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:23:09.487Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:23:12.962Z [info]: Token verified successfully
+2024-08-23T11:24:30.997Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:24:33.553Z [info]: Token verified successfully for user undefined

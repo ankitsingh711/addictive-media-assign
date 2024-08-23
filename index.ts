@@ -5,6 +5,8 @@ import bodyParser = require("body-parser");
 import logger from "./logger";
 import connectDB from "./config/db";
 import cookieParser = require("cookie-parser");
+import authRoutes from './routes/authRoute';
+import uploadRoutes from './routes/uploadRoute';
 
 dotenv.config();
 
@@ -31,6 +33,9 @@ app.use(cookieParser());
 app.get("/", (req: Request, res: Response) => {
   res.send('Addictive Media - Ankit Singh');
 });
+
+app.use('/auth', authRoutes);
+app.use('/upload', uploadRoutes);
 
 
 // Start the server :

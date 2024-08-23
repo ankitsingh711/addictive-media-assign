@@ -1,18 +1,12 @@
 import { Request, Response } from "express";
 import { registerUser, loginUser } from "../services/authService";
 import logger from "../logger";
-import { JwtPayload } from "jsonwebtoken";
-import { UserModel } from "../models/userModel";
-
-interface CustomRequest extends Request {
-  user?: { role: string } | JwtPayload | string;
-}
 
 export const register = async (req: Request, res: Response) => {
-  const { first_name, last_name, email, password, role } = req.body;
+  const { first_name, last_name, email, password, num } = req.body;
 
   try {
-    const user = await registerUser(first_name, last_name, email, password, role);
+    const user = await registerUser(first_name, last_name, email, num);
     logger.info(`User Registered Successfully - ${email}`);
     res.status(201).json({ message: `User registered successfully`, user });
   } catch (error) {
@@ -21,14 +15,18 @@ export const register = async (req: Request, res: Response) => {
   }
 };
 
-export const login = async (req: CustomRequest, res: Response) => {
-  const { email, password } = req.body;
+export const login = async (req: Request, res: Response) => {
+  const { first_name, password } = req.body;
 
   try {
-    const token = await loginUser(email, password);
+    const result = await loginUser(first_name, password);
 
-    res.status(200).json({ token, message: `User logged in successfully!` });
+    if ('message' in result) {
+      return res.status(400).json({ error: result.message });
+    }
+
+    res.status(200).json({ token: result.token, message: `User logged in successfully!` });
   } catch (error) {
-    res.status(400).json({ error: error || "An error occurred" });
+    res.status(500).json({ error: error || "An error occurred" });
   }
 };
