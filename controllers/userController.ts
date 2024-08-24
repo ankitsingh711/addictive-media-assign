@@ -24,13 +24,31 @@ export const getUserVideos = async (req: CustomRequest, res: Response) => {
   }
 };
 
-export const getAllVideos = async (req: CustomRequest, res: Response) => {
+export const getAllUserVideos = async (req: CustomRequest, res: Response) => {
   try {
-    const videos = await VideoModel.find().populate('user', 'first_name dp');
+      const videos = await VideoModel.find()
+          .populate('user', 'first_name dp')
+          .exec();
+      
+      // Group videos by user
+      const userVideos = videos.reduce((acc, video) => {
+          const userId = video.user._id.toString();
+          if (!acc[userId]) {
+              acc[userId] = {
+                  user: video.user,
+                  videos: []
+              };
+          }
+          acc[userId].videos.push(video);
+          return acc;
+      }, {} as { [key: string]: { user: IUser, videos: any[] } });
 
-    res.status(200).json({ videos });
+      const result = Object.values(userVideos);
+
+      res.status(200).json({ users: result });
   } catch (error) {
-    logger.error(`Get All Videos Error: ${error}`);
-    res.status(500).json({ message: "Internal server error" });
+      logger.error(`Get All User Videos Error: ${error}`);
+      res.status(500).json({ message: "Internal server error" });
   }
 };
+
