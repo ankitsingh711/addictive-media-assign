@@ -3,7 +3,6 @@ import logger from "../logger";
 import jwt from "jsonwebtoken";
 import { JwtPayload } from "jsonwebtoken";
 
-// Assuming your user object includes id, email, etc.
 interface IUserPayload extends JwtPayload {
   id: string;
   email: string;
@@ -37,10 +36,11 @@ export const authorization = async (
         return res.status(401).json({ message: "Invalid token" });
       }
 
-      // Cast to IUserPayload to access the specific properties (e.g., id, email)
+      logger.info(`this is a decoded payload: ${JSON.stringify(decoded)}`);
+
       req.user = decoded as IUserPayload;
+
       logger.info(`Token verified successfully for user ${req.user.id}`);
-      
       next();
     });
   } catch (error) {
@@ -48,3 +48,4 @@ export const authorization = async (
     return res.status(500).json({ message: "Internal server error" });
   }
 };
+

@@ -276,3 +276,175 @@
 2024-08-23T11:23:12.962Z [info]: Token verified successfully
 2024-08-23T11:24:30.997Z [info]: Connected to the DB ! and Server is running on PORT 4000
 2024-08-23T11:24:33.553Z [info]: Token verified successfully for user undefined
+2024-08-23T11:35:24.933Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:35:28.524Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:35:58.284Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:36:17.307Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:36:26.439Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T11:36:31.525Z [info]: Token verified successfully for user undefined
+2024-08-23T11:36:45.729Z [info]: User logged in successfully - praksh
+2024-08-23T11:36:56.952Z [info]: Token verified successfully for user undefined
+2024-08-23T12:06:56.675Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:07:12.398Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:07:20.201Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:07:30.833Z [info]: User logged in successfully - praksh
+2024-08-23T12:11:17.236Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:12:39.721Z [info]: User Login Failed: Invalid Credentials - test4
+2024-08-23T12:12:50.259Z [info]: User Login Failed: Invalid Credentials - test
+2024-08-23T12:13:07.787Z [info]: User Login Failed: Invalid Credentials - test
+2024-08-23T12:13:14.711Z [info]: User Login Failed: Invalid Credentials - test
+2024-08-23T12:16:09.722Z [info]: User Registered Successfully - itsankitsingh711@gmail.com
+2024-08-23T12:16:09.732Z [info]: User Registered Successfully - itsankitsingh711@gmail.com
+2024-08-23T12:17:06.154Z [info]: User Login Failed: Invalid Credentials - ankit
+2024-08-23T12:17:11.042Z [info]: User logged in successfully - ankit
+2024-08-23T12:20:32.595Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:20:40.717Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:21:08.629Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:21:12.601Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:22:40.444Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:22:55.678Z [info]: Token verified successfully for user undefined
+2024-08-23T12:25:12.640Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:25:15.474Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:25:31.842Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:30:20.715Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T12:30:27.920Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T14:54:43.512Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T14:54:43.629Z [info]: User logged in successfully - ankit
+2024-08-23T14:54:53.046Z [info]: this is decoded
+2024-08-23T14:54:53.047Z [info]: Token verified successfully for user undefined
+2024-08-23T14:56:39.521Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T14:59:07.550Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-23T14:59:13.950Z [info]: this is decoded
+2024-08-23T14:59:13.951Z [info]: Token verified successfully for user undefined
+2024-08-24T00:51:06.361Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:51:14.299Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:52:48.119Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:52:50.359Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:52:53.453Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:52:59.443Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:53:02.879Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:53:07.723Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:53:11.214Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:53:14.321Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:53:17.399Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:53:31.586Z [info]: User logged in successfully - ankit
+2024-08-24T00:53:45.897Z [info]: Token verified successfully for user undefined
+2024-08-24T00:54:47.356Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:54:50.479Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:55:07.451Z [info]: this is a decoded payload
+2024-08-24T00:55:07.451Z [info]: Token verified successfully for user undefined
+2024-08-24T00:57:33.002Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:58:34.799Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T00:58:37.996Z [info]: this is a decoded payload
+2024-08-24T00:58:37.997Z [info]: Token verified successfully for user undefined
+2024-08-24T01:00:44.718Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:00:47.761Z [info]: this is a decoded payload: {"iat":1724460811,"exp":1724464411}
+2024-08-24T01:00:47.762Z [info]: Token verified successfully for user undefined
+2024-08-24T01:12:45.242Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:15:35.115Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:15:45.278Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:15:51.686Z [info]: User logged in successfully - ankit
+2024-08-24T01:16:05.237Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724462151,"exp":1724465751}
+2024-08-24T01:16:05.237Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T01:17:05.714Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:17:05.758Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724462151,"exp":1724465751}
+2024-08-24T01:17:05.759Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T01:17:06.288Z [info]: Bio added successfully for user 66c87d896f93c070ed6da345
+2024-08-24T01:19:16.154Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:21:58.575Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:22:04.721Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:22:47.825Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:22:53.427Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:23:37.784Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:23:42.981Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:24:02.905Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:26:19.930Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:30:44.061Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T01:31:36.142Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T11:01:29.868Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T11:01:45.952Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T11:02:12.549Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T11:02:14.909Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T11:07:04.836Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:00:30.447Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:06:21.543Z [error]: Invalid Token: jwt expired
+2024-08-24T18:06:26.676Z [info]: User logged in successfully - ankit
+2024-08-24T18:06:39.536Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:06:39.536Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:08:01.935Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:08:01.935Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:08:01.946Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:08:01.947Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:11:50.629Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:11:50.629Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:11:51.705Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:11:51.705Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:11:52.110Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:11:52.110Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:12:21.938Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:12:21.938Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:12:26.124Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:12:26.124Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:12:40.362Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:17:12.017Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:17:12.017Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:17:12.143Z [info]: Video uploaded successfully: 66ca23a8727a3e73e97972f2
+2024-08-24T18:24:01.146Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:24:10.545Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:24:21.817Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:24:52.178Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:24:59.984Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:27:36.258Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:27:41.051Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:27:43.092Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:28:24.737Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:28:33.682Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:29:08.457Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:29:16.595Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:31:10.768Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:32:14.979Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:32:17.256Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:32:20.347Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:36:32.616Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:36:32.617Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:37:44.240Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:37:46.969Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:37:54.696Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:37:59.281Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:38:05.381Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:38:08.846Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:38:08.847Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:38:08.876Z [error]: Upload DP Error: Error: uploads/dps/dp-66c87d896f93c070ed6da345-1724524688870.jpeg: unable to open for write
+unix error: No such file or directory
+2024-08-24T18:38:30.325Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:38:30.326Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:38:30.345Z [error]: Upload DP Error: Error: uploads/dps/dp-66c87d896f93c070ed6da345-1724524710344.jpeg: unable to open for write
+unix error: No such file or directory
+2024-08-24T18:38:40.007Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:38:43.214Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724522786,"exp":1724526386}
+2024-08-24T18:38:43.215Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:38:43.238Z [error]: Upload DP Error: Error: uploads/dps/dp-66c87d896f93c070ed6da345-1724524723236.jpeg: unable to open for write
+unix error: No such file or directory
+2024-08-24T18:39:41.537Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:40:12.337Z [info]: User logged in successfully - ankit
+2024-08-24T18:40:32.411Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724524812,"exp":1724528412}
+2024-08-24T18:40:32.412Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:40:32.438Z [error]: Upload DP Error: Error: uploads/dps/dp-66c87d896f93c070ed6da345-1724524832436.jpeg: unable to open for write
+unix error: No such file or directory
+2024-08-24T18:42:24.415Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724524812,"exp":1724528412}
+2024-08-24T18:42:24.415Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:42:24.434Z [error]: Upload DP Error: Error: uploads/dps/dp-66c87d896f93c070ed6da345-1724524944432.jpeg: unable to open for write
+unix error: No such file or directory
+2024-08-24T18:42:53.831Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724524812,"exp":1724528412}
+2024-08-24T18:42:53.832Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:42:53.853Z [error]: Upload DP Error: Error: uploads/dps/dp-66c87d896f93c070ed6da345-1724524973852.jpeg: unable to open for write
+unix error: No such file or directory
+2024-08-24T18:45:01.000Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:45:25.321Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:46:37.049Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724524812,"exp":1724528412}
+2024-08-24T18:46:37.050Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T18:46:37.076Z [error]: Upload DP Error: Error: uploads/dps/dp-66c87d896f93c070ed6da345: unable to open for write
+unix error: No such file or directory
+2024-08-24T18:57:50.656Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T18:57:53.282Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724524812,"exp":1724528412}
+2024-08-24T18:57:53.282Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
