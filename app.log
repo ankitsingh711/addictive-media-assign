@@ -448,3 +448,14 @@ unix error: No such file or directory
 2024-08-24T18:57:50.656Z [info]: Connected to the DB ! and Server is running on PORT 4000
 2024-08-24T18:57:53.282Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724524812,"exp":1724528412}
 2024-08-24T18:57:53.282Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T19:11:05.834Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T19:11:31.756Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T19:12:57.193Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T19:13:01.633Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T19:13:13.128Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T19:13:17.593Z [info]: Connected to the DB ! and Server is running on PORT 4000
+2024-08-24T19:13:35.878Z [info]: User logged in successfully - ankit
+2024-08-24T19:13:50.032Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724526815,"exp":1724530415}
+2024-08-24T19:13:50.033Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T19:14:15.028Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724526815,"exp":1724530415}
+2024-08-24T19:14:15.029Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345

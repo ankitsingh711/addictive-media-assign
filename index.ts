@@ -7,6 +7,7 @@ import connectDB from "./config/db";
 import cookieParser = require("cookie-parser");
 import authRoutes from './routes/authRoute';
 import uploadRoutes from './routes/uploadRoute';
+import userRoutes from './routes/userRoute';
 
 dotenv.config();
 
@@ -36,6 +37,7 @@ app.get("/", (req: Request, res: Response) => {
 
 app.use('/auth', authRoutes);
 app.use('/upload', uploadRoutes);
+app.use('/user', userRoutes);
 
 
 // Start the server :
