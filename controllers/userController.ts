@@ -9,24 +9,7 @@ interface CustomRequest extends Request {
 
 export const getUserVideos = async (req: CustomRequest, res: Response) => {
   try {
-    const userId = req.user?.id;
-
-    if (!userId) {
-      return res.status(400).json({ message: "User ID is missing from the request" });
-    }
-
-    const videos = await VideoModel.find({ user: userId }).limit(5);
-
-    res.status(200).json({ videos });
-  } catch (error) {
-    logger.error(`Get User Videos Error: ${error}`);
-    res.status(500).json({ message: "Internal server error" });
-  }
-};
-
-export const getAllUserVideos = async (req: CustomRequest, res: Response) => {
-  try {
-    const userId = req.user?.id;
+    const userId = req.params.userId;
 
     if (!userId) {
       return res.status(400).json({ message: "User ID is missing from the request" });
@@ -36,7 +19,18 @@ export const getAllUserVideos = async (req: CustomRequest, res: Response) => {
 
     res.status(200).json({ videos });
   } catch (error) {
-    logger.error(`Get All User Videos Error: ${error}`);
+    logger.error(`Get User Videos Error: ${error}`);
+    res.status(500).json({ message: "Internal server error" });
+  }
+};
+
+export const getAllVideos = async (req: CustomRequest, res: Response) => {
+  try {
+    const videos = await VideoModel.find().populate('user', 'first_name dp');
+
+    res.status(200).json({ videos });
+  } catch (error) {
+    logger.error(`Get All Videos Error: ${error}`);
     res.status(500).json({ message: "Internal server error" });
   }
 };

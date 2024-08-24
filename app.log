@@ -459,3 +459,5 @@ unix error: No such file or directory
 2024-08-24T19:13:50.033Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
 2024-08-24T19:14:15.028Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724526815,"exp":1724530415}
 2024-08-24T19:14:15.029Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
+2024-08-24T19:17:58.069Z [info]: this is a decoded payload: {"id":"66c87d896f93c070ed6da345","email":"itsankitsingh711@gmail.com","iat":1724526815,"exp":1724530415}
+2024-08-24T19:17:58.070Z [info]: Token verified successfully for user 66c87d896f93c070ed6da345
